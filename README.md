@@ -131,7 +131,7 @@ Then visit: [http://localhost:3000](http://localhost:3000)
 
 ## 📄 License
 
-[MIT License]([https://opensource.org/licenses/MIT](https://github.com/fjiolla/SyncUp---Find-Your-Perfect-Pod?tab=MIT-1-ov-file#))
+[MIT License]([https://github.com/fjiolla/SyncUp---Find-Your-Perfect-Pod?tab=MIT-1-ov-file#])
 
 ---
 
