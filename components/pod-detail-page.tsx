@@ -383,15 +383,15 @@ export function PodDetailPage({ podId }: PodDetailPageProps) {
               <CardContent className="space-y-3">
                 <div className="space-y-2">
                   <p className="font-medium text-sm">Photography Walk</p>
-                  <p className="text-xs text-gray-600 dark:text-gray-400">Sun 2:00 PM • City Center</p>
+                  <p className="text-xs text-gray-600 dark:text-gray-400">Sun 2:00 PM • Science City</p>
                   <div className="flex items-center space-x-1">
                     <Users className="h-3 w-3" />
                     <span className="text-xs">6/10 members</span>
                   </div>
                 </div>
                 <div className="space-y-2">
-                  <p className="font-medium text-sm">Mountain Biking</p>
-                  <p className="text-xs text-gray-600 dark:text-gray-400">Sat 8:00 AM • Trail Park</p>
+                  <p className="font-medium text-sm">Hiking</p>
+                  <p className="text-xs text-gray-600 dark:text-gray-400">Sat 8:00 AM • Pavagadh</p>
                   <div className="flex items-center space-x-1">
                     <Users className="h-3 w-3" />
                     <span className="text-xs">4/6 members</span>

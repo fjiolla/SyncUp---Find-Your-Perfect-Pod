@@ -202,7 +202,7 @@ export function CreatePodPage() {
                       <Label htmlFor="location">Location</Label>
                       <Input
                         id="location"
-                        placeholder="e.g., Central Park, NYC"
+                        placeholder="e.g., Saputara"
                         value={formData.location}
                         onChange={(e) => setFormData((prev) => ({ ...prev, location: e.target.value }))}
                       />

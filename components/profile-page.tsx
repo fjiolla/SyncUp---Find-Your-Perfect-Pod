@@ -382,7 +382,7 @@ export function ProfilePage() {
               </CardHeader>
               <CardContent className="space-y-4">
                 <div>
-                  <Label htmlFor="locationRadius">Location Radius (miles)</Label>
+                  <Label htmlFor="locationRadius">Location Radius (km)</Label>
                   <Select
                     value={profile.preferences.locationRadius}
                     onValueChange={(value) =>
@@ -396,11 +396,11 @@ export function ProfilePage() {
                       <SelectValue />
                     </SelectTrigger>
                     <SelectContent>
-                      <SelectItem value="5">5 miles</SelectItem>
-                      <SelectItem value="10">10 miles</SelectItem>
-                      <SelectItem value="25">25 miles</SelectItem>
-                      <SelectItem value="50">50 miles</SelectItem>
-                      <SelectItem value="100">100 miles</SelectItem>
+                      <SelectItem value="50">50 km</SelectItem>
+                      <SelectItem value="100">100 km</SelectItem>
+                      <SelectItem value="500">500 km</SelectItem>
+                      <SelectItem value="1000">1000 km</SelectItem>
+                      <SelectItem value="1000">Anywhere</SelectItem>
                     </SelectContent>
                   </Select>
                 </div>
