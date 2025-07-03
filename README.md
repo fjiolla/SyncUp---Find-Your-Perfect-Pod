@@ -73,7 +73,8 @@ This is a modular, route-based layout using the Next.js App Router, designed for
 ## 🎬 Demo Video
 
 Watch a walkthrough of SyncUp in action:
-[![SyncUp Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=1mQaLefDqfg)
+
+https://github.com/user-attachments/assets/45a41e0e-fa41-4c8e-a310-fe1b3e834e18
 
 ---
 
